@@ -1,4 +1,4 @@
-# Innovaash — Redesigned Premium Website
+# Innovaash — Premium Website
 
 This version uses the **uploaded Innovaash logo** as the official logo asset.
 
@@ -6,7 +6,7 @@ This version uses the **uploaded Innovaash logo** as the official logo asset.
 - `index.html`
 - `css/style.css`
 - `js/script.js`
-- `assets/innovaash-logo.png`
+- `innovaash-logo.png`
 - Responsive mobile navigation
 - Premium blue / navy visual system based on the supplied logo
 - Services: Websites, Business Tools, Custom Web Apps, Digital Solutions
