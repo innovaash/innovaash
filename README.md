@@ -4,8 +4,8 @@ This version uses the **uploaded Innovaash logo** as the official logo asset.
 
 ## Included
 - `index.html`
-- `css/style.css`
-- `js/script.js`
+- `style.css`
+- `script.js`
 - `innovaash-logo.png`
 - Responsive mobile navigation
 - Premium blue / navy visual system based on the supplied logo
