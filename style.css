@@ -184,6 +184,17 @@ footer{background:#061331;color:#a7b4ca}.footer-top{min-height:160px;display:fle
   .contact-logo{width:175px;height:175px}
   .steps{grid-template-columns:1fr 1fr}}
 @media(max-width:700px){
+  .brand img{
+    width:40px;
+    height:40px;
+  }
+  .brand-text strong{
+  font-size:17px;
+  }
+  .brand-text span{
+  font-size:7px;
+    letter-spacing:1px;
+  }
   .container{width:calc(100% - 28px)}
   .announcement-inner span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .announcement-inner{gap:10px}
