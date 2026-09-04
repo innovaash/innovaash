@@ -183,7 +183,7 @@ footer{background:#061331;color:#a7b4ca}.footer-top{min-height:160px;display:fle
   .contact-box{grid-template-columns:190px 1fr}
   .contact-logo{width:175px;height:175px}
   .steps{grid-template-columns:1fr 1fr}}
-@media(max-width:700px){
+@media(max-width:768px){
   .brand img{
     width:40px;
     height:40px;
