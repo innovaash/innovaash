@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://innovaash.com/sitemap.xml
